@@ -1,8 +1,17 @@
-# ajaxphp
-Mengimplementasikan penggunaan php, my sql,dan ajax dalam membuat sistem yang mampu menampilkan data karyawan
-
+# Pengimplementasian HTML DOM dan AJAX :smiley:
 <br/>
-Untuk menjalankan program ini ,langkah-langkahnya sebagai berikut:
-1. Mengimport database yang bernama demo.sql
-2. Melakukan pengaturan pada bagian koneksi mysql
-3. Tempatkan keseluruhan file pada satu direktori
+
+
+This Repository contains PHP Program
+To Run this this program you must:
+1. Menginstal apache webserver dan mysql server
+2. Membuka browser
+3. Menjalankan index.php pada browser
+4. Mencoba aplikasi
+<Anything>
+ Ketika tulisan karyawan diklik, maka data karyawan akan muncul
+ Ketika radiobutton di klik, maka akan muncul field untuk mengedit
+ 
+ Thanks :smiley:
+
+
