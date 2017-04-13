@@ -9,7 +9,7 @@ To Run this this program you must:
 3. Menjalankan index.php pada browser
 4. Mencoba aplikasi
 <Anything>
- Ketika tulisan karyawan diklik, maka data karyawan akan muncul
+ Ketika tulisan karyawan diklik, maka data karyawan akan muncul <br/>
  Ketika radiobutton di klik, maka akan muncul field untuk mengedit
  
  Thanks :smiley:
